@@ -59,3 +59,6 @@ Web application Deployed and Open.
 //if you see 'It works!' on the website - make sure to rename your .html file to index.html and make sure it is in /var/www/html. If you see any other errors, ensure to go through the steps again to avoid any mistakes, even the slightest of typos can mess it up :)//
 
 
+*****These are not my development instructions above - I have followed this tutorial https://github.com/shridharDesai/Portfolio-Website/archive/refs/heads/main.zip to learn and set this up, however index.html on my page is configured by me*****
+
+
